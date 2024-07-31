@@ -18,5 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-We seek to understand system-level mechanism in movement disorders.  Using advanced behavioural quantification and neurophysiology we draw on our expertise in motor control and computational neuroscience. As a multi-disciplinary group our work directly informs modes of neuromodulation such as deep brain stimulation and informs neurorehabilitation.
+We seek to understand system-level mechanism in movement disorders.  
+
+Using advanced behavioural quantification and neurophysiology we work collaboratively across the domains of motor control and computational neuroscience. 
+
+As a multi-disciplinary group our work directly informs modes of neuromodulation such as deep brain stimulation and neurorehabilitation!
 
