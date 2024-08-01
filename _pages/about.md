@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Gatsby Computational Neuroscience Unit, Department of Motor Neuroscience and Movement Disorders
+subtitle: 
 a>London, UK. 
 
 profile:
