@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
-a> Gatsby Computational Neuroscience Unit 
-a>Department of Motor Neuroscience and Movement Disorders
+subtitle: Gatsby Computational Neuroscience Unit, Department of Motor Neuroscience and Movement Disorders
 a>London, UK. 
 
 profile:
@@ -19,9 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Our mission is to better understand human movement disorders with a focus on system-level mechanism.  
+Our mission is to better understand human movement disorders with a focus on system-level mechanism 
 
-Using advanced behavioural quantification and neurophysiology we work collaboratively across the domains of motor control and computational neuroscience. 
+Using advanced behavioural quantification and neurophysiology we work collaboratively across the domains of motor control and computational neuroscience
 
-As a multi-disciplinary group our work directly informs modes of neuromodulation such as deep brain stimulation and neurorehabilitation!
+As a multi-disciplinary group our work directly informs modes of neuromodulation such as deep brain stimulation and neurorehabilitation
 
