@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. London, UK
+subtitle: <a href='#'>Gatsby Computational Neuroscience Unit</a>. London, UK
 
 profile:
   align: right
