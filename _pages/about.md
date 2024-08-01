@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
-a>London, UK. 
+subtitle: <a href='#'>Affiliations</a>. London, UK
 
 profile:
   align: right
