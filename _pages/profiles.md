@@ -14,12 +14,12 @@ profiles:
     content: about_anna.md
     image_circular: false # crops the image to make it circular
     more_info: 
-    - align: left
-      image: ivan.jpg
-      content: about_ivan.md
-      image_circular: true # crops the image to make it circular
-      more_info: 
-    - align: right
+  - align: left
+    image: ivan.jpg
+    content: about_ivan.md
+    image_circular: true # crops the image to make it circular
+    more_info: 
+  - align: right
     image: kate.jpg
     content: about_kate.md
     image_circular: true # crops the image to make it circular
