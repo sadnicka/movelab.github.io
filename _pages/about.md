@@ -9,16 +9,16 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <Gatsby Computational Neuroscience Unit>
+    <Department of Motor Neuroscience and Movement Disorders>
+    <London, UK>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-We seek to understand system-level mechanism in movement disorders.  
+Our mission is to better understand human movement disorders at a system-level.  Our focus is on hyperkinetic movement disorders, such as dystonia and tremor. where there is too much movement for a given context.  
 
 Using advanced behavioural quantification and neurophysiology we work collaboratively across the domains of motor control and computational neuroscience. 
 
