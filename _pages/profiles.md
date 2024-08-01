@@ -12,14 +12,14 @@ profiles:
   - align: right
     image: anna.jpg
     content: about_anna.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: 
 # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: left
-    image: anna.jpg
+    image: ivan.png
     content: about_ivan.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: 
 ---
 
