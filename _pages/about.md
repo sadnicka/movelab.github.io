@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Our mission is to better understand human movement disorders at a system-level.  Our focus is on hyperkinetic movement disorders, such as dystonia and tremor. where there is too much movement for a given context.  
+Our mission is to better understand human movement disorders with a focus on system-level mechanism.  
 
 Using advanced behavioural quantification and neurophysiology we work collaboratively across the domains of motor control and computational neuroscience. 
 
