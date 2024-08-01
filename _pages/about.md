@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a Gatsby Computational Neuroscience Unit</a>. <a epartment of Motor Neuroscience and Movement Disorders</a>London, UK. 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Gatsby Computational Neuroscience Unit<p>
-    <p>Department of Motor Neuroscience and Movement Disorders<p>
-    <p>London, UK<p>
+  more_info: 
  
 news: true # includes a list of news items
 latest_posts: false
