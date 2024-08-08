@@ -15,7 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: 
   - align: left
-    image: ivan.jpg
+    image: ivan.PNG
     content: about_ivan.md
     image_circular: true # crops the image to make it circular
     more_info: 
