@@ -11,14 +11,11 @@ profile:
   more_info: 
  
 news: true # includes a list of news items
-latest_posts: false
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to the Computational Movement Disorders Lab.  
-
-Our goal is to better understand human movement disorders with a focus on system-level mechanism. 
+Welcome to the Computational Movement Disorders Lab!  Our goal is to better understand human movement disorders with a focus on system-level mechanism. 
 
 Using neurophysiology techniques and advanced behavioural quantification we work collaboratively across the domains of motor control and computational neuroscience.  
 
