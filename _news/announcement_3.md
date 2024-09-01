@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:earth_americas: Will talk at MDS meeting in Philadelphia! "Phenomenology in movement disorders: between nothing and everything" 
+Thank you to Steven Frucht for putting together the session ['The neurobiology of visual recognition'](https://www.mdscongress.org/Sessions/2403.htm) at the 2024 MDS meeting in Philadelphia. Looking forward to debating of how clinician- and- data led characterisation of phenomenology can inform clinical  management. 
