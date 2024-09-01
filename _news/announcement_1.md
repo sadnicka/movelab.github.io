@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:notes: new paper in Nature Scientific Reports showing how musicians with dystonia are less able to individuate finger movements 
+Musicians with dystonia are less able to individuate finger movements.  In a new paper in [Nature Scientific Reports](https://www.nature.com/articles/s41598-024-65888-3) we discuss when task-specificity appears to matter and whether this finding could be used as a biomarker.
