@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2021-10-01 07:59:00-0400
+date: 2022-10-01 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Thank you to the Dystonia Medical Research Foundation for bringing our community together at their Workshop.  I discussed how the field of motor control can contribute to our knowledge of dystonic networks particularly at a mechanistic level.      
+How is task-specific dystonia is represented in the brain?  Professional musicians with and without dystonia were scanned during this collaboration with Jörn Diedrichsen's group.  We applied a range of analysis methods to explore somatotopy and representational architecture with a focus on the primary sensorimotor cortex.  Published in Brain    
 
 

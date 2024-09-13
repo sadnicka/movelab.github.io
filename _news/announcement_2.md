@@ -5,6 +5,4 @@ inline: true
 related_posts: false
 ---
 
-How can features of motor control across subtypes of dystonia translate into novel treatments?  Summarised current work during a talk at Progress in Motor Control, virtual Aukland.    
-
-
+How can features of motor control across subtypes of dystonia translate into novel treatments?  Summarised current work during a talk at Progress in Motor Control, virtual Aukland.

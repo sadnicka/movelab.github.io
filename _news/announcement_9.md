@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2021-10-01 07:59:00-0400
+date: 2023-09-01 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Thank you to the Dystonia Medical Research Foundation for bringing our community together at their Workshop.  I discussed how the field of motor control can contribute to our knowledge of dystonic networks particularly at a mechanistic level.      
+Symposium at Royal College of Music co-organised with Maria Herrojo Ruiz.  Thank you to the panel, RCM colleagues and brilliant audience.  Really enjoyed the informative discussions that flowed around the neuroscience of expert performance.  Made possible by outreach grants from the Guarantors of Brain and Goldsmiths.     
 
 

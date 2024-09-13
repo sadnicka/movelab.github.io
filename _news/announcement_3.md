@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Thank you to the Dystonia Medical Research Foundation for bringing our community together at their Workshop.  I discussed how the field of motor control can contribute to our knowledge of dystonic networks particularly at a mechanistic level.      
+Thank you to the Dystonia Medical Research Foundation for bringing our community together at their Workshop.  Anna discussed how the field of motor control can contribute to our knowledge of dystonic networks particularly at a mechanistic level.      
 
 
