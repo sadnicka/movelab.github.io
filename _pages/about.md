@@ -16,7 +16,8 @@ social: true # includes social icons at the bottom of the page
 
 
 
-Welcome to the Computational Movement Disorders Lab!  
+Welcome!  
+
 
 Our goal is to better understand human movement disorders with a focus on system-level mechanism. 
 
