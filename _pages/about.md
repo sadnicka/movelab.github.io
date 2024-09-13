@@ -14,6 +14,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+
+
 Welcome to the Computational Movement Disorders Lab!  
 
 Our goal is to better understand human movement disorders with a focus on system-level mechanism. 
