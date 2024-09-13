@@ -1,4 +1,4 @@
-Anna Sadnicka leads the Computational Movement Disorders Lab. A [Wellcome Trust Early Career Award](https://wellcome.org/) funds her to take pivotal clinical questions in movement disorders and work within the community of the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/gatsby-computational-neuroscience-unit).Her work is mentored by Professor Maneesh Sahani. 
+Anna Sadnicka leads the Computational Movement Disorders Lab. With a [Wellcome Trust Early Career Award](https://wellcome.org/) the lab work on pivotal clinical questions in movement disorders within the community of the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/gatsby-computational-neuroscience-unit. Her work is mentored by Professor Maneesh Sahani. 
 
 Experimental studies are performed at purpose built labs at the Department of Motor Neuroscience and Movement Disorders cementing motor control and neurophysiology expertise obtained during her PhD at UCL and Clinical Lectureship at SGUL.  
 
