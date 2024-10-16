@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Iván Varela (research assistant) and Kate Sampson (research neurophysiotherapist)form our new Computational Movement Disorders Lab!
+Big welcome to Iván Varela (research assistant) and Kate Sampson (research neurophysiotherapist) forming the Computational Movement Disorders Lab!
