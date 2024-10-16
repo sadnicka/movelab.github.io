@@ -1,9 +1,8 @@
 ---
 layout: post
-date: 2023-06-01 07:59:00-0400
+date: 2024-04-01 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-
-A huge thank you to all authors in our book [Basic and Translational Applications of the Network Theory in Dystonia](https://link.springer.com/book/10.1007/978-3-031-26220-3) just published with Springer.  This was co-edited with Asif Shaikh to collate a range of experimental papers and reflections from an international panel of experts that lead research on this important topic! 
+Iván Varela (research assistant) and Kate Sampson (research neurophysiotherapist)form our new Computational Movement Disorders Lab!
