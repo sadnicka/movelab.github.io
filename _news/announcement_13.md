@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Don't miss our session ['The neurobiology of visual recognition'](https://www.mdscongress.org/Sessions/2403.htm) at the 2024 MDS meeting in Philadelphia chaired by Steven Frucht and Marina Koning-Tijssen
+Don't miss our session ['The neurology of visual recognition'](https://www.mdscongress.org/Sessions/2403.htm) at the International Congress of Parkinson's Disease and Movement Disorders in Philadelphia chaired by Steven Frucht and Marina Koning-Tijssen
