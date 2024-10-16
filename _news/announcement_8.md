@@ -6,7 +6,4 @@ related_posts: false
 ---
 
 
-Huge thank you to all chapter authors in our book [Basic and Translational Applications of the Network Theory in Dystonia]() that has just been published.  Co-edited with Asif Shaikh.  A range of experimental papers and reflections on this important topic! 
-      
-
-
+A huge thank you to all authors in our book [Basic and Translational Applications of the Network Theory in Dystonia](https://link.springer.com/book/10.1007/978-3-031-26220-3) just published with Springer.  This was co-edited with Asif Shaikh to collate a range of experimental papers and reflections from an international panel of experts that lead research on this important topic! 

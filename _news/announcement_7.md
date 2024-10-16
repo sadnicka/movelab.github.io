@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Podcast!](https://www.movementdisorders.org/Podcasts/Unraveling-the-neural-routes-of-dystonia.htm). As part of the dystonia special series for the Movement Disorders Society podcast I was grilled on the neural underpinnings of dystonia by Francesca Morgante!     
+[Dystonia Special Podcast!](https://www.movementdisorders.org/Podcasts/Unraveling-the-neural-routes-of-dystonia.htm) As part of the dystonia special series for the Movement Disorders Society podcast I was grilled on the neural underpinnings of dystonia by Francesca Morgante!     
