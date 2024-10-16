@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Isobel Platt that joins the lab! Co-supervised by Tom Warner and Gareth Barners.  Will be studying dystonia with OPM-MEG methods! 
+Isobel Platt joins the lab! Co-supervised by Tom Warner and Gareth Barners.  Will be studying dystonia with OPM-MEG methods ...
