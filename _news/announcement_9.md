@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Symposium at Royal College of Music co-organised with Maria Herrojo Ruiz.  Thank you to the panel, RCM colleagues and brilliant audience.  Really enjoyed the informative discussions that flowed around the neuroscience of expert performance.  Made possible by outreach grants from the Guarantors of Brain and Goldsmiths.     
+Symposium on the [Neuroscience of Expert Performance]() at Royal College of Music co-organised with Maria Herrojo Ruiz! Thank you to the panel, RCM colleagues and brilliant audience.  Informative discussions flowed around the topic in the Q&A.  Made possible by outreach grants from the [Guarantors of Brain]() and [Goldsmiths]().     
 
 

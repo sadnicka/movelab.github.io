@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Come to our session ['The neurobiology of visual recognition'](https://www.mdscongress.org/Sessions/2403.htm) at the 2024 MDS meeting in Philadelphia curated by Steven Frucht! Anna will discuss how data-led analysis of phenomenology can complement existing clinical work-up ...
+Don't miss our session ['The neurobiology of visual recognition'](https://www.mdscongress.org/Sessions/2403.htm) at the 2024 MDS meeting in Philadelphia chaired by Steven Frucht and Marina Koning-Tijssen
