@@ -1,5 +1,5 @@
-Anna Sadnicka leads the Computational Movement Disorders Lab. [Wellcome Trust](https://wellcome.org/) funding allows her to tackle pivotal clinical questions in movement disroders whilst based at the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/gatsby-computational-neuroscience-unit). Her work is mentored by Prof Maneesh Sahani. 
+Anna Sadnicka leads the Computational Movement Disorders Lab. Funding from [Wellcome Trust](https://wellcome.org/) allows her to tackle pivotal clinical questions whilst based at the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/gatsby-computational-neuroscience-unit). Her work is mentored by Maneesh Sahani. 
 
 Experimental studies are performed at purpose built labs at the [Department of Motor Neuroscience and Movement Disorders](https://www.ucl.ac.uk/ion/research/research-departments/department-clinical-and-movement-neurosciences), an internationally renowned centre for human movement neuroscience.  
 
-A Consultant Neurologist at the [National Hospital for Neurology and Neurosurgery](https://www.uclh.nhs.uk/our-services/find-consultant/dr-anna-sadnicka), Anna sees patients with hyperkinetic movement disorders within a weekly teaching clinic led by Professor Tom Warner.  
+A Consultant Neurologist at the [National Hospital for Neurology and Neurosurgery](https://www.uclh.nhs.uk/our-services/find-consultant/dr-anna-sadnicka), Anna sees patients with hyperkinetic movement disorders within a weekly teaching clinic led by Tom Warner.  

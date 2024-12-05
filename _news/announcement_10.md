@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Issi Platt joins the lab! Co-supervised by Tom Warner and Gareth Barners.  Will be studying dystonia with optically pumped magnetometers MEG methods allowing us to study natural movements 
+Issi Platt joins the lab! Co-supervised by Tom Warner and Gareth Barners.  Issi will be studying naturalisitc motor tasks in dystonia using optically pumped magnetometers MEG methods!
