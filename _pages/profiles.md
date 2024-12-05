@@ -24,7 +24,7 @@ profiles:
     content: about_kate.md
     image_circular: true # crops the image to make it circular
     more_info: 
- - align: left
+  - align: left
     image: issi.jpg
     content: about_issi.md
     image_circular: true # crops the image to make it circular
