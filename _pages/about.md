@@ -14,4 +14,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Our mission is to improve our understanding of how the brain breaks in human movement disorders with a particular focus on circuit-level mechanism.  Our methods include advanced behavioural quantification and neurophysiology.  We use motor control theory, computational models and machine learning to understand the patterns we observe. Our research questions are based on current clinical needs searching for causal mechanisms that can inform neuromodulation and neurorehabilitation treatments.
+Our mission is to understand how the brain breaks in human movement disorders with a particular focus on circuit-level mechanism.  Our methods include advanced behavioural quantification and neurophysiology and we use motor control theory, computational models and machine learning to understand the patterns we observe. Our research questions are based on current clinical needs striving to define causal mechanisms that can inform neuromodulation and neurorehabilitation treatments.
