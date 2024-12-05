@@ -15,13 +15,18 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: 
   - align: left
-    image: ivan.PNG
+    image: ivan.png
     content: about_ivan.md
     image_circular: true # crops the image to make it circular
     more_info: 
   - align: right
     image: kate.jpg
     content: about_kate.md
+    image_circular: true # crops the image to make it circular
+    more_info: 
+ - align: left
+    image: issi.jpg
+    content: about_issi.md
     image_circular: true # crops the image to make it circular
     more_info: 
 ---
